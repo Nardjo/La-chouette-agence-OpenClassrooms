@@ -1989,7 +1989,7 @@ pre code {
     .container {
         width: 750px
     }
-}
+}W≥
 
 @media (min-width:992px) {
     .container {
@@ -2012,7 +2012,7 @@ pre code {
 
 .row {
     margin-right: -15px;
-    margin-left: -15px
+    margin-left: -15px;
 }
 
 .col-lg-1,
@@ -2066,7 +2066,7 @@ pre code {
     position: relative;
     min-height: 1px;
     padding-right: 15px;
-    padding-left: 15px
+    padding-left: 15px;
 }
 
 .col-xs-1,
