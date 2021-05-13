@@ -10,7 +10,7 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
+    outline: none;
 }
 
 a:hover {
@@ -141,6 +141,7 @@ a:hover {
 .d-bloc .navbar-brand:hover,
 .d-bloc a:hover .icon-sm,
 .d-bloc a:hover .icon-md,
+.d-bloc a:focus .icon-md,
 .d-bloc a:hover .icon-lg,
 .d-bloc a:hover .icon-xl,
 .d-bloc h1 a:hover,
@@ -337,7 +338,7 @@ a:hover {
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
-    transform: scale(1.3);
+    transform: scale(1.05);
 }
 
 .navbar-toggle {
@@ -766,14 +767,6 @@ h4 {
     padding: 40px 40px 40px 40px;
 }
 
-.black-bg{
-    margin-left: 200px;
-    padding-bottom: 20px;
-    background-color: black;
-    width: 600px;
-    opacity: 60%;
-}
-
 .bold-link {
     font-weight: 900;
     text-decoration: underline!important;
@@ -800,11 +793,16 @@ h4 {
     color: black!important;
 }
 
-.btn-atomic-tangerine:hover {
+.btn-atomic-tangerine:hover{
     background: #c27956!important;
     color: #FFFFFF!important;
 }
 
+.btn-atomic-tangerine:focus{
+    background: #c27956!important;
+    color: #FFFFFF!important;
+    border: 3px solid black;
+}
 .ltc-white {
     color: #FFFFFF!important;
 }
