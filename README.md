@@ -8,7 +8,7 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
 
 
 **Compte-rendu - réunion de lancement “Amélioration du référencement"**
-PJ : [maquette](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/GEN_integrateur_web_P4/Starting+website.zip)
+**PJ :** [maquette](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/GEN_integrateur_web_P4/Starting+website.zip)
 ```
  De : Sophie V 
 
