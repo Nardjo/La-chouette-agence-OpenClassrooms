@@ -8,6 +8,7 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
 
 
 **Compte-rendu - réunion de lancement “Amélioration du référencement"**
+PJ : [maquette](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/GEN_integrateur_web_P4/Starting+website.zip)
 ```
  De : Sophie V 
 
@@ -30,7 +31,7 @@ Tu l’imagines, tous ces éléments devront être codés en HTML et CSS. Fais �
 
 Voilà, je crois que j’ai fait le tour ! N’hésite pas si tu as la moindre question.
 
-Tu trouveras en pièce jointe une [maquette](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/GEN_integrateur_web_P4/Starting+website.zip) de notre site en son état actuel.
+Tu trouveras en pièce jointe une maquette de notre site en son état actuel.
 
 Sophie
 
